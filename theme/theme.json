@@ -1,0 +1,10 @@
+{ 
+   "shell-theme": {
+   "name": "MetalXgnome3.2", 
+   "author": "Viper", 
+   "version": "1.4",
+   "type":   "custom",
+   "thumbnail": "preview-MetalX.jpg", 
+   "url": "http://justviper.deviantart.com/"
+    }
+}
