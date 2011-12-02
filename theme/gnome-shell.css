@@ -330,7 +330,7 @@ StTooltip StLabel {
     box-shadow:  0px 1px 2px 0px rgba(0,0,0,0.3);
     font-size: 8.5pt;
     font-weight: bold;
-    height: 22px;
+    height: 36px;
 }
 
 #panelLeft, #panelCenter {
@@ -416,8 +416,8 @@ StTooltip StLabel {
     border: none;
     background-image: url("gnomefix.png");
     background-position: 0 0;
-    width: 60px;
-     height: 22px;
+    width: 36px;
+    height: 36px;
     color: rgba(0,0,0,0.0);
 }
 
