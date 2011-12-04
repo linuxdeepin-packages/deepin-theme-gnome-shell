@@ -517,8 +517,8 @@ visible-width: 5px; /* Amount visible before hovering */
     border: 1px solid rgba(88,88,88,0.1);
     border-right: 0px;
     box-shadow: outset 0px 1px 1px 1px rgba(0,0,0,0.4);
-    border-radius: 15px 0px 0px 15px;
-    padding: 12px 6px 12px 12px;
+    border-radius: 0px 15px 15px 0px;
+    padding: 6px 12px 12px 12px;
 }
 
 .workspace-thumbnails-background:rtl {
