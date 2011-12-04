@@ -774,12 +774,12 @@ visible-width: 5px; /* Amount visible before hovering */
 /* Apps */
 
 .icon-grid {
-    spacing: 32px;
-    -shell-grid-item-size: 80px;
+    spacing: 24px;
+    -shell-grid-item-size: 72px;
 }
 
 .icon-grid .overview-icon {
-    icon-size: 64px;
+    icon-size: 48px;
 }
 
 .contact-grid {
