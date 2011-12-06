@@ -330,7 +330,7 @@ StTooltip StLabel {
     box-shadow:  0px 1px 2px 0px rgba(0,0,0,0.3);
     font-size: 8.5pt;
     font-weight: bold;
-    height: 36px;
+    height: 28px;
 }
 
 #panelLeft, #panelCenter {
@@ -416,8 +416,8 @@ StTooltip StLabel {
     border: none;
     background-image: url("gnomefix.png");
     background-position: 0 0;
-    width: 36px;
-    height: 36px;
+    width: 28px;
+    height: 28px;
     color: rgba(0,0,0,0.0);
 }
 
@@ -608,7 +608,7 @@ visible-width: 5px; /* Amount visible before hovering */
 
 #viewSelector {
     spacing: 1em;
-    font-size: 12pt;
+    font-size: 11pt;
 }
 
 #viewSelectorTabBar {
@@ -798,7 +798,7 @@ visible-width: 5px; /* Amount visible before hovering */
 }
 
 .app-filter {
-    font-size: 11pt;
+    font-size: 10pt;
     font-weight: bold;
     height: 2.85em;
     color: #ccc;
