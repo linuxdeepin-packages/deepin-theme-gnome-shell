@@ -411,7 +411,7 @@ StTooltip StLabel { /*Controls the tooltips. Oh really, Einstein!*/
 
 #overview {
 	spacing: 20px;
-	background-color: rgba(0,0,0,0.4);
+	background-color: rgba(255,255,255,0);
 }
 
 .workspaces-view {
@@ -664,6 +664,11 @@ StTooltip StLabel { /*Controls the tooltips. Oh really, Einstein!*/
     icon-size: 48px;
 }
 
+.contact-grid {
+    spacing: 32px;
+    -shell-grid-item-size: 200px; /* 2 * -shell-grid-item-size + spacing */
+}
+
 .all-app {
 	padding: 2px 16px 5px 16px;
 	spacing: 10px;
@@ -727,7 +732,6 @@ StTooltip StLabel { /*Controls the tooltips. Oh really, Einstein!*/
 	font: 7pt;
 	padding: 6px;
 	text-align: center;
-	spacing: 20px;
 }
 
 .app-well-app.running > .overview-icon {
