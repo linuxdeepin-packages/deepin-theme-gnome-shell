@@ -85,7 +85,7 @@ July, 1 2011: AKA FINAL!
 
 /*Set the default font*/
 stage {
-	font-family: "droid sans", cantarell, sans-serif;
+	font-family: "文泉驿微米黑", "droid sans", cantarell, sans-serif;
 	
 /*Obviously, I'm using 'droid sans' as a default font, if you don't like it, simply replace it with your font of choice or use 'Cantarell', which is Gnome 3.0's default font*/
 }
@@ -331,8 +331,8 @@ StTooltip StLabel { /*Controls the tooltips. Oh really, Einstein!*/
 }
 
 .panel-button {
-	-natural-hpadding: 6px;
-	-minimum-hpadding: 6px;
+	-natural-hpadding: 2px;
+	-minimum-hpadding: 2px;
     transition-duration: 100;
 }
 
