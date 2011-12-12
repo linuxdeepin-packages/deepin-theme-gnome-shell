@@ -1,3 +1,9 @@
+deepin-theme-gnome-shell (11.12.3-1) oneiric; urgency=low
+
+  * Upstream update
+
+ -- Zhang Cheng <zhangcheng@linuxdeepin.com>  Mon, 12 Dec 2011 16:15:13 +0800
+
 deepin-theme-gnome-shell (11.12.2-2) oneiric; urgency=low
 
   * Fix architecture: any -> all
